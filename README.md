@@ -16,7 +16,10 @@ A two letter language code 'en' could be used to define 'English', whereas the f
 
 To set the primary language of our page as English we use the 'lang' attribute along with our 'en' language code and apply this to the HTML element at the beginning of each page.
 
-Website Design
+
+
+# Website Design
+
 
 
 ![website](https://user-images.githubusercontent.com/38343027/92320304-16d64080-f03e-11ea-8c9a-f24893bfa8ba.png)
