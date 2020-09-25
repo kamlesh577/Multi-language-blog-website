@@ -1,6 +1,6 @@
 # Multi-language-blog-website
 
-This repository contains a blog website which was made using HTML, CSS, javascript and google ttranslate
+This repository contains a blog website which was made using HTML, CSS, javascript and google translate
 
 ## What is a multi-lingual website?
 
